@@ -49,7 +49,7 @@ Key features of the application.
 
 <!-- LIVE DEMO -->
 
-### `[NOTE]` Check the API in the [BACK-END section](https://github.com/FaranoshAmini/hello-rails-back-end/pull/4) check it 🙏 :
+### `[NOTE]` Check the API in the [BACK-END section](https://github.com/FaranoshAmini/hello-rails-back-end/pull/1) check it 🙏 :
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
